@@ -1,3 +1,6 @@
+
+URl for the weather app : https://weatherapp-lokesh.netlify.app/
+
 # 🌦️ Personal Weather Dashboard
 
 A full-stack web application where users can register, log in, update their location, and view real-time weather data based on their saved location.
