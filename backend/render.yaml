@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: weather-api
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: python run.py
+    envVars:
+      - key: JWT_SECRET_KEY
+        value: your-secret-key
+      - key: JWT_ACCESS_TOKEN_EXPIRES
+        value: 3600
