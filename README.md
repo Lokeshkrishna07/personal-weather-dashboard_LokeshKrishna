@@ -1,7 +1,7 @@
 
 URl for the weather app : https://weatherapp-lokesh.netlify.app/
 
-Testing credentials : mail : lokesh@test.com  password : 1234
+Testing credentials : mail : lokesh@gmail.com  password : Lokesh@1234
 
 # 🌦️ Personal Weather Dashboard
 
