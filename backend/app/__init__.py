@@ -30,4 +30,10 @@ def create_app():
     app.register_blueprint(profile_bp, url_prefix="/profile")
     app.register_blueprint(weather_bp, url_prefix="/weather")
 
+    # 👇 Automatically create tables on first request (on Render)
+    @app.before_first_request
+    def create_tables():
+        db.create_all()
+
+
     return app
