@@ -1,6 +1,11 @@
 
 URl for the weather app : https://weatherapp-lokesh.netlify.app/
 
+Register with any mail : test@gmail.com
+create password : test123
+
+Login with mail & password which u have created.
+
 
 # 🌦️ Personal Weather Dashboard
 
